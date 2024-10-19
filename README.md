@@ -4,7 +4,7 @@ This project was created for fun and to explore how APIs work. It demonstrates a
 ## Setup
 ### Prerequisites
 Make sure you have the following installed on your computer:
-[´Node.js]~(https://nodejs.org/) (version 14 or higher recommended)
+[Node.js](https://nodejs.org/) (version 14 or higher recommended)
 
 ### Step-by-Step Guide
 ### 1. Create the Project Folder
