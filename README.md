@@ -1,5 +1,5 @@
 # About
-This project was created for fun and to explore how APIs work. It demonstrates a simple chatbot using Node.js, OpenAI's Gemini API, and other helpful tools. Follow the instructions below to set it up and start chatting.
+This project was created for fun and to explore how APIs work. It shows a simple chatbot using Node.js, OpenAI's Gemini API, and other helpful tools. Follow the instructions below to set it up and start chatting.
 
 ## Setup
 ### Prerequisites
