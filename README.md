@@ -26,7 +26,7 @@ npm init -y
 ### 3. Install Required Dependencies
 Install the necessary Node.js modules by running the following command:
 ```bash
-npm install axios @openai/gemini express dotenv
+npm install axios @google/generative-ai express dotenv
 ```
 
 ### 4. Setup Environment Variables
